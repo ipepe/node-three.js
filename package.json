@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:stefankutko/node-three.js.git"
+    "url": "git@github.com:nulltask/node-three.js.git"
   },
   "keywords": [
     "three.js"
