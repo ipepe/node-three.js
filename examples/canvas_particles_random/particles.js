@@ -3,11 +3,8 @@
  * Module dependencies.
  */
 
-var THREE = require('../../')
-  , EventEmitter = require('events').EventEmitter
-  , jsdom = require('jsdom')
-  , document = jsdom.jsdom('<!doctype html><html><head></head><body></body></html>')
-  , window = document.createWindow();
+var THREE = require('../../');
+var EventEmitter = require('events').EventEmitter;
 
 /**
  * Expose `Particles`.
